@@ -1,0 +1,14 @@
+# ==Python==
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+# ==Backend==
+backend./__pycache__
+backend/.env
+# ==Frontend==
+node_modules/
+frontend/node_modules/
+dist/
+build/
+.vite/
